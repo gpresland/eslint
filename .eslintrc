@@ -100,7 +100,7 @@
     "no-new": 2,                                      // disallow new operators outside of assignments or comparisons
     "no-octal-escape": 2,                             // disallow octal escape sequences in string literals
     "no-octal": 2,                                    // disallow octal literals
-    "no-param-reassign": 2,                           // disallow reassigning function parameters
+    "no-param-reassign": 0,                           // disallow reassigning function parameters
     "no-proto": 2,                                    // disallow the use of the __proto__ property
     "no-redeclare": 2,                                // disallow variable redeclaration
     "no-restricted-properties": 2,                    // disallow certain properties on certain objects
