@@ -229,7 +229,7 @@
     "no-whitespace-before-property": 2,               // disallow whitespace before properties
     "object-curly-newline": 0,                        // enforce consistent line breaks inside braces
     "object-curly-spacing": ["error", "always"],      // enforce consistent spacing inside braces
-    "object-property-newline": 2,                     // enforce placing object properties on separate lines
+    "object-property-newline": 0,                     // enforce placing object properties on separate lines
     "one-var-declaration-per-line": 2,                // require or disallow newlines around variable declarations
     "one-var": 0,                                     // enforce variables to be declared either together or separately in functions
     "operator-assignment": 2,                         // require or disallow assignment operator shorthand where possible
