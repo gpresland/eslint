@@ -210,7 +210,7 @@
     "newline-per-chained-call": 2,                    // require a newline after each call in a method chain
     "no-array-constructor": 2,                        // disallow Array constructors
     "no-bitwise": 2,                                  // disallow bitwise operators
-    "no-continue": 2,                                 // disallow continue statements
+    "no-continue": 0,                                 // disallow continue statements
     "no-inline-comments": 2,                          // disallow inline comments after code
     "no-lonely-if": 2,                                // disallow if statements as the only statement in else blocks
     "no-mixed-operators": 2,                          // disallow mixed binary operators
